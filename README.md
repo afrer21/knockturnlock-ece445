@@ -46,7 +46,7 @@ https://www.adafruit.com/product/1512?gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RlgWKqt1XGg
 
 This lock would be sufficient for the project as we would not need to design our own lock and servo system. When a correct combination is entered the microcontroller would send a signal to unlock the door and then the lock would re engage when the door closes.
 
-# Criterion For Success
+# Criteria For Success
 
 Describe high-level goals that your project needs to achieve to be effective. These goals need to be clearly testable and not subjective.
 
