@@ -41,3 +41,8 @@
 - Attended and submitted peer design review
 - First draft of schematic
 - Only a couple parts left not determined
+
+## 3/5/2023
+### Objectives:
+- Finalize schematic
+- Revise design document
