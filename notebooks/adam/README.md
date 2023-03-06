@@ -46,3 +46,5 @@
 ### Objectives:
 - Finalize schematic
 - Revise design document
+### Completed:
+- Finalizing schematic
