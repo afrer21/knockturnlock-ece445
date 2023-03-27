@@ -48,3 +48,28 @@
 - Revise design document
 ### Completed:
 - Finalizing schematic
+
+## 3/6/2023
+### Objectives:
+- Submit PCB order
+### Completed:
+- Made slight modifications to PCB design in order to pass review for submission
+- PCB was missing once connection to ground that the review was able to catch
+- Gerber received by Jason (TA)
+
+## 3/7/2023
+### Completed:
+- Submitted teamwork evaluation
+
+## 3/9/2023
+### Objectives:
+- Discuss with team what needs to be worked on over spring break
+### Completed:
+- Decided we need to start our software program and finish it before the PCB arrives
+- Need to collect all of our components when we come back from break
+
+## 3/22/2023
+### Objectives:
+- Meet with TA
+### Completed:
+- Picked up ordered parts from the lab
