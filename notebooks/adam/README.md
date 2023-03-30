@@ -73,3 +73,23 @@
 - Meet with TA
 ### Completed:
 - Picked up ordered parts from the lab
+
+## 3/23/2023
+### Objectives:
+- Outline software program
+### Completed:
+- Created rough outline for software program
+
+## 3/27/2023
+### Objectives:
+- Begin converting software outline to code
+### Completed:
+- SOme of the software program is written
+
+## 3/28/2023
+### Objectives:
+- Start individual progress report
+
+## 3/29/2023
+### Completed:
+- Finished individual progress report
