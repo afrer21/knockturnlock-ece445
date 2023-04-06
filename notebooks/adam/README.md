@@ -84,7 +84,7 @@
 ### Objectives:
 - Begin converting software outline to code
 ### Completed:
-- SOme of the software program is written
+- Some of the software program is written
 
 ## 3/28/2023
 ### Objectives:
@@ -93,3 +93,19 @@
 ## 3/29/2023
 ### Completed:
 - Finished individual progress report
+
+## 4/3/2023
+### Objectives:
+- Continue writing code for software program
+### Completed:
+- Basic software program has been written
+
+## 4/4/2023
+### Objectives:
+- Continue writing more advance features of software
+### Completed:
+- Continued writing more advance features of software
+
+## 4/6/2023
+### Completed:
+- Picked up small parts for soldering
