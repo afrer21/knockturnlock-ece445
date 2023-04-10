@@ -107,5 +107,9 @@
 - Continued writing more advance features of software
 
 ## 4/6/2023
+### Objectives:
+- Solder and test first PCB
 ### Completed:
 - Picked up small parts for soldering
+- Ordered more components for our project
+- Ordered a revised PCB
