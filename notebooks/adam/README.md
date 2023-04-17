@@ -113,3 +113,18 @@
 - Picked up small parts for soldering
 - Ordered more components for our project
 - Ordered a revised PCB
+
+## 4/13/2023
+### Objectives:
+- Solder and test first PCB
+### Completed:
+- Used stencil to solder on surface mounted components
+- Had no access to a program loader so we decided to wait and finish soldering
+
+## 4/14/2023
+### Objectives:
+- Finish solder and test first PCB
+- Meet with TA
+### Completed:
+- Finished soldering all components to board
+- Agreed upon with TA a time to mock demo, April 20th 4:00 PM
