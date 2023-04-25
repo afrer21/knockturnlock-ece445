@@ -128,3 +128,22 @@
 ### Completed:
 - Finished soldering all components to board
 - Agreed upon with TA a time to mock demo, April 20th 4:00 PM
+
+## 4/19/2023
+### Objectives:
+- Write test program for mock demo
+- Get hardware ready for mock demo
+### Completed:
+- All ready for mock demo
+
+## 4/20/2023
+### Objectives:
+- Finish writing software program
+- Finish connecting all sensors
+### Completed:
+- Mock demo
+- Software and hardware all functioning as expected
+
+## 4/24/2023
+### Completed:
+- Demo
