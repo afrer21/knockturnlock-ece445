@@ -1,4 +1,5 @@
 # Adam Frerichs' ECE 445 Lab Notebook
+Photos of the project are in the pics folder off the main folder
 ## 2/22/2023
 ### Objectives:
 - Finalize part requirements
