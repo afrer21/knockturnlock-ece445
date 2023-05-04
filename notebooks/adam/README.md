@@ -150,6 +150,8 @@ Photos of the project are in the pics folder off the main folder
 - Software and hardware all functioning as expected
 - The program is all written and works as expected, we have no current issues with the project and it all works
 
+![Alt text](/pics/Interior.jpg "Back of Project")
+
 ## 4/24/2023
 ### Completed:
 - Demo, it went as expected and did not have any issues
