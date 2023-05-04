@@ -147,3 +147,30 @@
 ## 4/24/2023
 ### Completed:
 - Demo
+
+## 4/26/2023
+### Objectives:
+- Start presentation
+
+## 4/27/2023
+### Objectives:
+- Finish presentation
+
+## 4/28/2023
+### Objectives:
+- Revise presentation
+### Completed:
+- Mock Presentation
+- Needed to add slide numbers and some more highlighting to important areas on the presentation
+
+## 5/1/2023
+### Completed:
+- Final presentation
+
+## 5/2/2023
+### Completed:
+- Start final paper
+
+## 5/3/2023
+### Completed:
+- Finished final paper
