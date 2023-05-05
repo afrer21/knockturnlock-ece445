@@ -150,6 +150,8 @@ Photos of the project are in the pics folder off the main folder
 - Software and hardware all functioning as expected
 - The program is all written and works as expected, we have no current issues with the project and it all works
 
+![Alt text](https://github.com/afrer21/knockturnlock-ece445/blob/main/pics/Interior.JPG?raw=true)
+
 ## 4/24/2023
 ### Completed:
 - Demo, it went as expected and did not have any issues
