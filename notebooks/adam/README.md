@@ -8,7 +8,11 @@ Photos of the project are in the pics folder off the main folder
 ### Completed:
 - Still finalizing part requirements
 - Ordered first round of parts, still need to order microcontroller and voltage regulator
+- Decided on using a 1M ohm resistor for the piezo as research has told us the larger the resistor the lower the voltage readings we will get. A 1M ohm resistor should get us readings within the 5V threshold that we want
 - Completed design document
+
+- Below is the reference sheet for the microcontroller we decided to use
+[9] Atmel 8-bit AVR Microcontroller with 2/4/8K Bytes In-System Programmable Flash, Atmel. August 2013. [Online] Available: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf
 
 ## 2/23/2023
 ### Completed:
@@ -22,6 +26,7 @@ Photos of the project are in the pics folder off the main folder
 ### Completed:
 - TA says we are still on track
 - Submitted team contract
+- I have been tasked with mainly working on the microcontroller section and Arduino programming
 
 ## 2/26/2023
 ### Objectives:
@@ -129,9 +134,15 @@ Photos of the project are in the pics folder off the main folder
 ### Objectives:
 - Finish solder and test PCB
 - Meet with TA
+- Build the board
 ### Completed:
 - Finished soldering all components to board
 - Agreed upon with TA a time to mock demo, April 20th 4:00 PM
+- Finished building the board
+- Decided to ditch the programming circuit we had designed and instead added an IC socket for the microcontroller. This would allow us to program the ATtiny85 separately on our program loader, then just directly place the pre-programmed microcontroller onto the PCB. This actually worked well and solved our issue of not being able to program
+
+- The image below shows the front of the project
+![front of project](https://github.com/afrer21/knockturnlock-ece445/blob/main/pics/Exterior.JPG?raw=true)
 
 ## 4/19/2023
 ### Objectives:
@@ -140,6 +151,7 @@ Photos of the project are in the pics folder off the main folder
 ### Completed:
 - All ready for mock demo
 - We have unit tests running for the mock demo that allow the TA to see that each of our subsystems is running and that we only need to continue improving the software
+- The unit tests flash an LED to show that the microcontroller has received a handle turn or a knock
 
 ## 4/20/2023
 ### Objectives:
@@ -148,9 +160,13 @@ Photos of the project are in the pics folder off the main folder
 ### Completed:
 - Mock demo
 - Software and hardware all functioning as expected
+- We added software that allows us to reprogram the combination on the fly. We were originally keeping that idea as something we could add in the future, but we had extra time and it was not super difficult to add that portion
+- We were having issues with recognizing a knock when it was supposed to be a handle turn. We solved this in software by checking to make sure that the user had not pressed the button when a knock was recorded
 - The program is all written and works as expected, we have no current issues with the project and it all works
+- We tested the default combination and the reprogramming steps. Demoing the two of these and showing them our project covers all of our high level requirements
 
-![Alt text](https://github.com/afrer21/knockturnlock-ece445/blob/main/pics/Interior.JPG?raw=true)
+- The image below details the back of the project when it is all assembled. You can see that we had to use wires as contact pads, which was not the ideal solution to the problem. The wires ended up working great with the only downside is they look trashy
+![back of project](https://github.com/afrer21/knockturnlock-ece445/blob/main/pics/Interior.JPG?raw=true)
 
 ## 4/24/2023
 ### Completed:
